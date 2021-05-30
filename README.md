@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @dweisiger
 - 👀 I’m interested in ...lifting weights, cooking, writing code
-- 🌱 I’m currently learning ...flutter
-- 💞️ I’m looking to collaborate on ...anything
-- 📫 How to reach me ...via encryption
+- ⌨️ CRKBD
 
 <!---
 dweisiger/dweisiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
