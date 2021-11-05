@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dweisiger
+- 👋 Hi, I’m @dweisiger AKA dionysus on discord
 - 👀 I’m interested in ... lifting weights, cooking, writing code, 3d printing, keyboards
 - ⌨️ A. Dux
 
