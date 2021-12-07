@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in ... lifting weights, cooking, writing code, 3d printing, keyboards
 
-- ⌨️ A. Dux, 34 keys
+- ⌨️ A. Dux, 34 keys ... Corne, 42 keys
 
 <!---
 dweisiger/dweisiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
