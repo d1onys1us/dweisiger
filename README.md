@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in ... decentralization, writing code, 3d printing, keyboards
 
-- ⌨️ Keyboards I've built: A. Dux, Corne, Ferris half-swept, Technik
+- ⌨️ Keyboards I've built: A. Dux, Corne, Ferris half-swept, Technik, Osprette
 
 <!---
 dweisiger/dweisiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
