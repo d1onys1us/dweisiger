@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dweisiger AKA Dionysus on Discord
+- 👋 Hi, I’m @dweisiger
 
 - 👀 I’m interested in ... decentralization, writing code, 3d printing, keyboards
 
