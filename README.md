@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dweisiger
 
-- 👀 I’m interested in ... decentralization, writing code, 3D printing, keyboards
+- 👀 I’m interested in ... decentralization, programming, 3D printing, ergonomic keyboards
 
 - ⌨️ Keyboards I've built: A. Dux, Corne, Ferris half-swept, Technik, Osprette choc/mx
 
