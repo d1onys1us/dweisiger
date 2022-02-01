@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dweisiger
 
-- 👀 I’m interested in ... decentralization, programming, 3D printing, ergonomic keyboards, weightlifting, knowledge management
+- 👀 I’m interested in ... decentralization, programming, 3D printing, ergonomic keyboards, weightlifting, knowledge management (check out dendron.so 🪴)
 
 - ⌨️ Keyboards I've built: A. Dux, Corne, Ferris half-swept, Technik, Osprette choc/mx
 
