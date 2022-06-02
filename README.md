@@ -1,4 +1,4 @@
-- 👋 Hi, I’m d1onysus 👻
+- 👋 Hi, I’m **d1onysus**
 
 - 👀 I’m interested in ... decentralization/blockchain, programming (specifically dx), 3D printing, ergonomic keyboards, weightlifting, and knowledge management (check out [Dendron](http://dendron.so) 🌿)
 
